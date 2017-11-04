@@ -1,10 +1,10 @@
 
 Custom library for implementing Binary Search Trees
 Functions:	 	Add key
-				Search key 
-				Delete key 
-				Successor
-				Various traversals(In-order, Pre-order, Post-order, Level-order)
+			Search key 
+			Delete key 
+			Successor
+			Various traversals(In-order, Pre-order, Post-order, Level-order)
 
 Implemented for integer keys
 Duplicate keys are not allowed
