@@ -3,6 +3,11 @@
 Author: Kumar Mehta
 Custom Binary Search Tree functions to Add key, Search key, Delete key and various traversals
 
+Search:     O(h)
+Insert:     O(h)
+Delete:     O(h)
+Traversal:  O(n)
+
 */
 
 #include<iostream>
