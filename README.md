@@ -1,2 +1,7 @@
-# Data-Structures
-Implementation of Linked Lists, Binary search trees, etc.
+# Data-Structures and Algorithms
+
+Implementation of standard data structures and algorithms including the following:
+
+-> Binary Search Trees
+
+->
